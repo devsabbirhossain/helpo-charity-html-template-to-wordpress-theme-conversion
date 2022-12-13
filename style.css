@@ -1,0 +1,37 @@
+/*
+Theme Name: Charity BD
+Description: This theme is a custom theme. In this theme we convert a theme template to wordpress. and this theme is fully user friendly and multipurpose theme which is give you a new wordpress theme experience.
+Author: Sabbir Hossain
+Theme URI: https://workportfolio.brothersdeveloper.com/charityone
+Author URI: https://sabbir.brothersdeveloper.com
+Version: 1.0.0
+Requires PHP: 5.6
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: charitybd
+Tags: one-column, multi-column, custom-colors, custom-menu, custom-logo, editor-style, featured-images, full-site-editing, block-patterns, rtl-language-support, sticky-post, threaded-comments
+*/
+
+.comments {
+	list-style: square ;
+}
+
+.comments li {
+	padding-top: 20px;
+}
+
+.custom-field {
+	padding-top: 10px;
+	margin-left: 12px;
+}
+.custom-field input{
+	width: 97%;
+	align-items: center;
+}
+
+@media (max-width:991px){
+	
+	.custom-field input {
+		width: 94%;
+	}
+}
