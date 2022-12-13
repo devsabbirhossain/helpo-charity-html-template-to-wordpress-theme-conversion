@@ -1,4 +1,4 @@
-# helpo-charity-html-template-to-wordpress-theme-conversion
+# Helpo Charity HTML Template Converted To WordPress Theme
 
 **Contributors:** <a href="https://github.com/devsabbirhossain">Sabbir Hossain</a><br>
 **Author URL:** https://sabbir.brothersdeveloper.com <br>
